@@ -1,4 +1,4 @@
-Name : English 
+name : Azerbaijan
 
 general_1 : "İstifadəçinin mesajına cavab verin (reply) və ya istifadəçi adı / ID-sini daxil edin."
 general_2 : "Sorğunuz icra edilərkən **Xəta Baş Verdi**.\n\nXəta növü: {0}</code>"
@@ -169,5 +169,6 @@ queue_3 : "<u>» Növbədəki mahnıların siyahısını yoxlamaq üçün bura k
 queue_4 : "➲ <b>Növbəyə əlavə edildi ##{0}\n\n‣ Ad :</b> {1}\n<b>‣ Müddət :</b> {2} dəqiqə\n<b>‣ İstəyən :</b> {3}"
 queue_5 : "Pleylistdə yalnız bir mahnı var.\n\nSiyahını yoxlamaq üçün daha çox mahnı əlavə edin."
 queue_6 : "<b>🕚 Müddət :</b> Naməlum müddət"
+
 
 
